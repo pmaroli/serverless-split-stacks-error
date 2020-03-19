@@ -1,0 +1,16 @@
+{
+  "name": "serverless-plugin-split-stacks-issue-106-proof-of-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stacks-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^1.65.0",
+    "serverless-plugin-split-stacks": "github:dougmoscrop/serverless-plugin-split-stacks#pull/107/head"
+  }
+}
