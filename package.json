@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "serverless": "^1.65.0",
+    "serverless": "^3.25.1",
     "serverless-plugin-split-stacks": "github:dougmoscrop/serverless-plugin-split-stacks#pull/107/head"
   }
 }
